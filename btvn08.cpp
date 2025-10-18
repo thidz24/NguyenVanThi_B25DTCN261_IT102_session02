@@ -19,4 +19,5 @@ int main() {
     b = b / 10;
     result = result * 10 + a;
 	printf("So dao nguoc la: %d\n", result);
+	return 0;
 }
